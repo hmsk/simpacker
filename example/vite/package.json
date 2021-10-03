@@ -1,0 +1,8 @@
+{
+  "name": "example_app",
+  "private": true,
+  "devDependencies": {
+    "rollup-plugin-output-manifest": "^2.0.0",
+    "vite": "^2.6.0"
+  }
+}
